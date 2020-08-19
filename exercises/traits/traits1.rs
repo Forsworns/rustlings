@@ -8,9 +8,7 @@
 // which appends "Bar" to any object
 // implementing this trait.
 
-trait AppendBar {
-    fn append_bar(self) -> Self;
-}
+// I AM NOT DONE
 
 impl AppendBar for String {
     //Add your code here
